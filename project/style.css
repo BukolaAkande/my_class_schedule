@@ -1,0 +1,62 @@
+body{
+    background-image: url(https://images.pexels.com/photos/1242348/pexels-photo-1242348.jpeg?auto=compress&cs=tinysrgb&w=1600);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.container h3{
+    text-align:center;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-size:50px;
+    color:black;
+    padding-top:10px;
+    font-weight:100%;
+    margin:0;
+}
+.name{
+    border:2px solid black;
+    width:25%;
+    font-size:15px;
+    margin-left:100%px;
+    text-align:left;
+    display:left;
+    font-family:Arial, Helvetica, sans-serif;
+    color:black;
+    margin-top:5px;
+    padding:5px;
+    background-color:white;
+    margin-bottom:5px;
+    font-weight:bold;
+}
+.section{
+    border:2px solid black;
+    width:25%;
+    font-size:15px;
+    margin-right:100%px;
+    text-align:left;
+    display:left;
+    font-family:Arial, Helvetica, sans-serif;
+    color:black;
+    margin-top:-55px;
+    padding:5px;
+    background-color:white;
+    margin-bottom:5px;
+    font-weight:bold;
+    float:right;
+}
+table,tr,th{
+    border:1px solid cadetblue;
+    background-color: aquamarine;
+    text-align:center;
+    font-size:30px;
+    display:center;
+    padding:5px;
+    table-layout:auto;
+    tab-size: 500pc 450px;
+    font-family: Arial, Helvetica, sans-serif;
+    color:black;
+    float:center;
+}
+table,th{
+    background-color:burlywood;
+
+}
